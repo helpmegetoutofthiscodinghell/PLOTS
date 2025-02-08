@@ -1,7 +1,7 @@
 # Data Analytics Assignment: PLOTS
 
 ## Deliverables
----
+
 ### I. Bar Graph
 
 ![Bar Chart](bar_chart.png)
